@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "LIVIN'",
+  "base_artist": "Seeda",
+  "createdAt": "2026-02-11T11:46:35.130721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Livin' On A Prayer",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/01_Livin'_On_A_Prayer_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Livin’ The Dream",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/02_Livin’_The_Dream_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "40 Hour Week (For A Livin')",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/03_40_Hour_Week_(For_A_Livin')_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dyin' For a Livin'",
+      "artist": "Muscadine Bloodline",
+      "has_synced": false,
+      "path": "select/04_Dyin'_For_a_Livin'_Muscadine_Bloodline.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dyin' For a Livin'",
+      "artist": "Muscadine Bloodline",
+      "has_synced": true,
+      "path": "select/05_Dyin'_For_a_Livin'_Muscadine_Bloodline.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forty Hour Week (For a Livin')",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/06_Forty_Hour_Week_(For_a_Livin')_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forty Hour Week (For a Livin')",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/07_Forty_Hour_Week_(For_a_Livin')_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forty Hour Week (For a Livin')",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/08_Forty_Hour_Week_(For_a_Livin')_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin')",
+      "artist": "Faron Young",
+      "has_synced": true,
+      "path": "select/09_If_You_Ain't_Lovin'_(You_Ain't_Livin')_Faron_Young.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin')",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_If_You_Ain't_Lovin'_(You_Ain't_Livin')_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin') (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_If_You_Ain't_Lovin'_(You_Ain't_Livin')_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Town Livin'",
+      "artist": "Dustin Lynch",
+      "has_synced": false,
+      "path": "select/12_Little_Town_Livin'_Dustin_Lynch.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Livin' On Love",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/13_Livin'_On_Love_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Livin' On Love",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/14_Livin'_On_Love_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Livin' On Love",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/15_Livin'_On_Love_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Livin' On Love",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/16_Livin'_On_Love_Alan_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIVIN'",
+      "artist": "SEEDA",
+      "has_synced": false,
+      "path": "select/pl_01_LIVIN'_SEEDA.txt"
+    }
+  ]
+}
